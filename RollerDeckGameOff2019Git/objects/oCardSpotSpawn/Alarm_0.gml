@@ -1,0 +1,1 @@
+hight = array_length_1d(global.cards_out)+1
